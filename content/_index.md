@@ -4,10 +4,10 @@ hide_title: true
 sections:
 - type: section_hero
   template: section_hero
-  title: Welcome to another Nocode.Monster test
+  title: Welcome to another Nocode.Monster test!
   section_id: hero
-  content: "Everything I know, everything I do - this is who I am. \n\n**This is what.
-    I. Do.**"
+  content: "###### Everything I know, everything I do - this is who I am. \n\n**This
+    is what. I. Do.**"
   actions: []
 - type: section_content
   template: section_content
